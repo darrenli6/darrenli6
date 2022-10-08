@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darrenli6
+- 👋 Hi, I’m darren
 - 👀 I’m interested in cs and finance.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on github
