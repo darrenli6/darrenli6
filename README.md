@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - [My Badges](https://training.linuxfoundation.org/certification/verify/)
 
 <p align=""> 
-  <img width="200" height="200" src="https://sm.ms/image/bYW4gUxucBdfnTH" alt="CKA" />
-  <img width="200" height="200" src="https://sm.ms/image/wPiF8JWB5hAn4KX" alt="CKAD" />
+  <img width="200" height="200" src="https://s2.loli.net/2023/02/13/bYW4gUxucBdfnTH.png" alt="CKA" />
+  <img width="200" height="200" src="https://s2.loli.net/2023/02/13/wPiF8JWB5hAn4KX.png" alt="CKAD" />
   
 </p>
