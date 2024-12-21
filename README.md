@@ -1,5 +1,5 @@
 - 👋 Hi, I’m darren .
-- 👀 I’m interested in cs,finance and blockchain .
+- 👀 I’m interested in cs,finance and AI .
 - 🌱 Be curious about everything
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me darren94me@gmail.com
